@@ -30,6 +30,14 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontra informações sobre mim, 
   - **Backend**: Laravel & MySQL.
   - **Frontend**: Vue.js, Vue Router, Vuex & Vite.
   - Features: real-time chat with Pusher, voting system, FAQ management, notifications, and more. | Funcionalidades: chat em tempo real com Pusher, sistema de votação, gerenciamento de FAQ, notificações, entre outros.
+ 
+---
+
+## GitHub Stats | Estatísticas do GitHub
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=diluan135&layout=compact&langs_count=10&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diluan135&show_icons=true&theme=dark)
+
+---
 
 ## Connect with Me | Conecte-se comigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/diluan-matos)
