@@ -35,7 +35,6 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontra informações sobre mim, 
 
 ## GitHub Stats | Estatísticas do GitHub
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=diluan135&layout=compact&langs_count=10&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diluan135&show_icons=true&theme=dark)
 
 ---
 
