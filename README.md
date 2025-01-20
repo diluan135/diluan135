@@ -1,7 +1,12 @@
 # Hello! 👋 I'm Diluan | Olá! 👋 Eu sou o Diluan
 
 Welcome to my GitHub profile! Here you'll find information about me, my projects, and my journey as a full stack developer. 🚀
+Please, see my [portfolio](https://diluan135.github.io/portfolio/)
+
+---
+
 Bem-vindo ao meu perfil do GitHub! Aqui você encontra informações sobre mim, meus projetos e minha jornada como desenvolvedor full stack. 🚀
+Por favor, veja meu [portfólio](https://diluan135.github.io/portfolio/)
 
 ---
 
